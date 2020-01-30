@@ -1,7 +1,7 @@
 [submodule "Loop"]
 	path = Loop
 	url = https://github.com/kenstack/Loop.git
-	branch = ken-autobolus
+	branch = test-flight
 [submodule "LoopKit"]
 	path = LoopKit
 	url = https://github.com/kenstack/LoopKit.git
