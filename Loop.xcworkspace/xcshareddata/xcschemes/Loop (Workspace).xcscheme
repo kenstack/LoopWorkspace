@@ -155,7 +155,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C136AA5D231187B0008A320D"
-               BuildableName = "MinimedKitPlugin.loopplugin"
+               BuildableName = "MinimedKitPlugin.framework"
                BlueprintName = "MinimedKitPlugin"
                ReferencedContainer = "container:rileylink_ios/RileyLink.xcodeproj">
             </BuildableReference>
